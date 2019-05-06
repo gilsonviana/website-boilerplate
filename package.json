@@ -1,0 +1,35 @@
+{
+  "name": "website-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating websites using Gulp and Browser Sync auto-reload for fast development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonviana/website-boilerplate.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3"
+  },
+  "keywords": [
+    "website",
+    "gulp",
+    "boilerplate",
+    "live",
+    "reload",
+    "browser",
+    "sync"
+  ],
+  "author": "Gilson Viana <vianawebdev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsonviana/website-boilerplate/issues"
+  },
+  "homepage": "https://github.com/gilsonviana/website-boilerplate#readme"
+}
